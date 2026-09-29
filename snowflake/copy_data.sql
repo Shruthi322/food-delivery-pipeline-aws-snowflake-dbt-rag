@@ -20,3 +20,4 @@ UNION ALL SELECT 'food',        COUNT(*) FROM RAW.food
 UNION ALL SELECT 'menu',        COUNT(*) FROM RAW.menu
 UNION ALL SELECT 'reviews',     COUNT(*) FROM RAW.reviews
 ORDER BY t;
+-- comments
