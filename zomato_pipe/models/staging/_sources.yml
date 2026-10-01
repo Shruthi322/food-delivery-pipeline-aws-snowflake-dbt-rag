@@ -8,3 +8,5 @@ sources:
         - name: users
         - name: orders
         - name: menu
+        - name: reviews
+        - name: order_items
